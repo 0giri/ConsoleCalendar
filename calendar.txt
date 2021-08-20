@@ -1,0 +1,5 @@
+2021-08-20,giri,rest,[danmi]
+2021-08-20,giri,rest,[sooho, gandi]
+2021-08-21,danmi,eating,[giri]
+2021-08-21,danmi,eating,[giri, gandi]
+2021-08-20,giri,rest,[danmi]
